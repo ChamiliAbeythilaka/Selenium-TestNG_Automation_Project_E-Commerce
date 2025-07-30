@@ -2,6 +2,7 @@
 Automation Testing using Selenium and TestNG.
 
 Project Stack
+
 • Language: Java
 
 • Automation Tool: Selenium WebDriver
