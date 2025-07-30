@@ -1,0 +1,31 @@
+{
+  "validUser": {
+    "firstName": "Tester01",
+    "lastName": "User",
+    "email": "Tester0002@example.com",
+    "phone": "777123456",
+    "password": "StrongPass123@"
+  },
+  "invalidEmailUser": {
+    "firstName": "Tester1",
+    "lastName": "User",
+    "email": "invalid-email",
+    "phone": "777123456",
+    "password": "ValidPass123@"
+  },
+  "invalidPhoneUser": {
+    "firstName": "Tester2",
+    "lastName": "User",
+    "email": "test@example.com",
+    "phone": "phone123",
+    "password": "ValidPass123@"
+  },
+  "weakPasswordUser": {
+    "firstName": "Tester3",
+    "lastName": "User",
+    "email": "user@example.com",
+    "phone": "777123456",
+    "password": "12345"
+  }
+
+}
