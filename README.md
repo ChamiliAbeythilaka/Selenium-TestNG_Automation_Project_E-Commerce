@@ -1,5 +1,5 @@
 # Selenium-TestNG_Automation_Project_E-Commerce
-Automation Testing using Selenium and TestNG.
+This project is an automated test suite developed using Selenium WebDriver and TestNG for an E-Commerce web application. It focuses on validating key functionalities 
 
 Project Stack
 
